@@ -1,4 +1,3 @@
-//main class
 import java.util.Scanner;
 class Exp4_4_5
 {

@@ -1,4 +1,3 @@
-﻿//Employee class
 class Exp4_5_1
 {
 	String name,empid;
@@ -23,7 +22,7 @@ class Exp4_5_1
 	{
 		return salary;
 	}
-	void increaseSalary(double x)
+	void increase_Salary(double x)
 	{
 		salary+=(salary*x)/100;
 		System.out.println("Salary increased by "+x+"%");

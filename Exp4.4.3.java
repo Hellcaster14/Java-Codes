@@ -1,4 +1,3 @@
-//urgent call
 class Exp4_4_3 extends Exp4_4_1
 {
 	void call_cost()

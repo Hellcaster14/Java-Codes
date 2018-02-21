@@ -11,8 +11,3 @@ class Exp4_2_1
 		age=sc.nextInt();
 	}
 }
-
-
-
-
-		

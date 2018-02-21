@@ -1,3 +1,4 @@
+import java.util.*;
 class Exp2_1
 {
 	public static void main(String args[])

@@ -1,7 +1,7 @@
 class Exp5_3_2 implements Exp5_3_1
 {
-	public double cir(float x)
+	public double area(float x,float y)
 	{
-		return 2*pi*x;
+		return pi*x*x;
 	}
 }
